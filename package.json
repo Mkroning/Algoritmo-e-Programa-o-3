@@ -1,0 +1,24 @@
+{
+  "name": "arrowfunction",
+  "version": "1.0.0",
+  "description": "Exercícios de arrow function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mkroning/Algoritmo-e-Programa-o-3.git"
+  },
+  "author": "Matheus Kroning",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mkroning/Algoritmo-e-Programa-o-3/issues"
+  },
+  "homepage": "https://github.com/Mkroning/Algoritmo-e-Programa-o-3#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faker": "^4.1.0",
+    "nodemon": "^2.0.2"
+  }
+}
