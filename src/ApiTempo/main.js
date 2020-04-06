@@ -1,7 +1,6 @@
 import axios from 'axios';
 
 class Api {
-
   static async getWeather(city) {
     const response = new Weather((await axios.get(`https://api.hgbrasil.com/weather?key=66bb97e2&city_name=${city}`)).data.results);
     return response
